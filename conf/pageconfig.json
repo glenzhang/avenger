@@ -1,0 +1,6 @@
+{
+    "index": {
+        "js": ["public/js/dialog.js", "public/js/index.js"],
+        "css": ["public/css/style.css"]
+    }
+}
